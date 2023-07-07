@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body {
+  background-color: #e5e5e5;
+} */
+/* Elemets CSS started here */
+.heading-tag {
+  padding: 15px 0;
+}
+.space-10 {
+  padding: 10px 0;
+}
+.space-15 {
+  padding: 15px 0;
+}
+#ten-out-of-ten {
+  border: 1px solid red;
+}
